@@ -117,7 +117,7 @@ def listar_tareas(tareas): # función para listar todas las tareas que tenemos e
     
     for i, tarea in enumerate(tareas, 1): # itera a través de las tareas
         status = "Completada" if tarea.estado else "Sin completar" # comprueba si el estado es True o False
-        print(f"{i}. {tarea.descripcion} - Fecha de vencimiento: {tarea.fecha_vencimiento.strftime("%d/%m/%y")} - Estado: {status}")
+        print(f"{i}. {tarea.descripcion} - Fecha de vencimiento: {tarea.fecha_vencimiento.strftime('%d/%m/%y')} - Estado: {status}")
 
 
 def visualizar_completadas(tareas): # función para visualizar tareas completadas
