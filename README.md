@@ -1,8 +1,12 @@
+![Python Logo](https://www.python.org/static/community_logos/python-logo-master-v3-TM.png)
+
 ---
 
 # Gestor de Tareas en Python
 
+
 Gestor de tareas interactivo creado en Python.
+
 
 ---
 
