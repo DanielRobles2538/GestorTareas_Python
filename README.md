@@ -3,7 +3,7 @@
 ---
 
 # Gestor de Tareas en Python
-
+**Autor:** Daniel Robles Aller
 
 Gestor de tareas interactivo creado en Python.
 
