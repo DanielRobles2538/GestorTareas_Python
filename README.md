@@ -3,7 +3,7 @@
 ---
 
 # Gestor de Tareas en Python
-**Autor:** Daniel Robles Aller
+**Autor:** [Daniel Robles Aller](www.linkedin.com/in/danielroblesaller) 
 
 Gestor de tareas interactivo creado en Python.
 
